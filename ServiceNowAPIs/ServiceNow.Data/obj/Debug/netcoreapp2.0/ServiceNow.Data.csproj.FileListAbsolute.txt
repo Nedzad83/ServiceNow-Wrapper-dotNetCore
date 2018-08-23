@@ -1,0 +1,15 @@
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\bin\Debug\netcoreapp2.0\ServiceNow.Data.deps.json
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\bin\Debug\netcoreapp2.0\ServiceNow.Data.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\bin\Debug\netcoreapp2.0\ServiceNow.Data.pdb
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\obj\Debug\netcoreapp2.0\ServiceNow.Data.csprojResolveAssemblyReference.cache
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\obj\Debug\netcoreapp2.0\ServiceNow.Data.csproj.CoreCompileInputs.cache
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\obj\Debug\netcoreapp2.0\ServiceNow.Data.AssemblyInfoInputs.cache
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\obj\Debug\netcoreapp2.0\ServiceNow.Data.AssemblyInfo.cs
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\obj\Debug\netcoreapp2.0\ServiceNow.Data.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\obj\Debug\netcoreapp2.0\ServiceNow.Data.pdb
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\bin\Debug\netcoreapp2.0\ServiceNow.Common.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\bin\Debug\netcoreapp2.0\ServiceNow.Common.pdb
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Data\bin\Debug\netcoreapp2.0\Microsoft.Extensions.Configuration.Abstractions.xml

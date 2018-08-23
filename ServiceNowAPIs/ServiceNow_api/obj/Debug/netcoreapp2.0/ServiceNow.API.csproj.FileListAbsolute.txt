@@ -1,0 +1,15 @@
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\bin\Debug\netcoreapp2.0\ServiceNow.API.deps.json
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\bin\Debug\netcoreapp2.0\ServiceNow.API.runtimeconfig.json
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\bin\Debug\netcoreapp2.0\ServiceNow.API.runtimeconfig.dev.json
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\bin\Debug\netcoreapp2.0\ServiceNow.API.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\obj\Debug\netcoreapp2.0\ServiceNow.API.csprojResolveAssemblyReference.cache
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\obj\Debug\netcoreapp2.0\ServiceNow.API.csproj.CoreCompileInputs.cache
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\obj\Debug\netcoreapp2.0\ServiceNow.API.AssemblyInfoInputs.cache
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\obj\Debug\netcoreapp2.0\ServiceNow.API.AssemblyInfo.cs
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\bin\Debug\netcoreapp2.0\ServiceNow.API.pdb
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\obj\Debug\netcoreapp2.0\ServiceNow.API.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\obj\Debug\netcoreapp2.0\ServiceNow.API.pdb
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\bin\Debug\netcoreapp2.0\ServiceNow.Data.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\bin\Debug\netcoreapp2.0\ServiceNow.Data.pdb
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\bin\Debug\netcoreapp2.0\ServiceNow.Common.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow_api\bin\Debug\netcoreapp2.0\ServiceNow.Common.pdb

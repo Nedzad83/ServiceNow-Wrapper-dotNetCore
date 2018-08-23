@@ -1,0 +1,11 @@
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Common\bin\Debug\netcoreapp2.0\ServiceNow.Common.deps.json
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Common\bin\Debug\netcoreapp2.0\ServiceNow.Common.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Common\bin\Debug\netcoreapp2.0\ServiceNow.Common.pdb
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Common\obj\Debug\netcoreapp2.0\ServiceNow.Common.csproj.CoreCompileInputs.cache
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Common\obj\Debug\netcoreapp2.0\ServiceNow.Common.AssemblyInfoInputs.cache
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Common\obj\Debug\netcoreapp2.0\ServiceNow.Common.AssemblyInfo.cs
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Common\obj\Debug\netcoreapp2.0\ServiceNow.Common.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Common\obj\Debug\netcoreapp2.0\ServiceNow.Common.pdb
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Common\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Common\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\nedzad.gicic\source\repos\ServiceNow_api\ServiceNow.Common\obj\Debug\netcoreapp2.0\ServiceNow.Common.csprojResolveAssemblyReference.cache
